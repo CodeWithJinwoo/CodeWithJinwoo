@@ -1,4 +1,4 @@
-<img alt="Coding"  src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)">
+![Banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Divya Prakash</h1>
 <h3 align="center">A passionate tech enthusiast trying to explore new tech.</h3>
