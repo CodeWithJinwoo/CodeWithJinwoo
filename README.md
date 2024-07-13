@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **Open Source Contribution and Google Summer of Code**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Full Stack Web Development**
 
 - 📫 How to reach me **codewithkrish179@gmail.com**
 
