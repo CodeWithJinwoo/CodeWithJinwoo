@@ -2,8 +2,11 @@
 <h3 align="center">A passionate tech enthusiast trying to explore new tech.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-
 - 🌱 I’m currently learning **Full Stack Web Development**
+
+- 🤝 I’m looking for help with **Open Source Contribution and Google Summer of Code**
+
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **codewithkrish179@gmail.com**
 
