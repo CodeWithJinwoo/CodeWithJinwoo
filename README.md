@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divya Prakash</h1>
 <h3 align="center">A passionate tech enthusiast trying to explore new tech.</h3>
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw23SD3alnwGEBWMRM-W75SK&ust=1720952523291000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCvx_Dlo4cDFQAAAAAdAAAAABAF
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
