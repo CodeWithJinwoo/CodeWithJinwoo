@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 🤝 I’m looking for help with **Open Source Contribution and Google Summer of Code [GSOC]**
+- 🤝 I’m looking for help with **Open Source Contributions**
 
 - 💬 Ask me about **Full Stack Web Development**
 
