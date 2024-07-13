@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divya Prakash</h1>
 <h3 align="center">A passionate tech enthusiast trying to explore new tech.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<video autoplay loop muted playsinline width="400">
+  <source src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
